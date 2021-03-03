@@ -35,11 +35,15 @@ a common way to normalize it is to devide by $N^2$ so the maximal result would b
 The result is a 3-d array of pickup region drop off region and initial time as axes and value is $C = g_2/N^2$ 
 
 Averaging over all the regions we see a cycle of inefficiency which grows in the morning.
+
 <img src="temporal.jpg" width="50%" height="50%" />
 
 To find which areas are least efficient for pickup averaging over the time and drop off region
+
 <img src="hourlypickup.jpg" width="75%" height="75%" />
+
 To find which areas are least efficient for drop off averaging over the time and drop off region
+
 <img src="hourlydropoff.jpg" width="75%" height="75%" />
 
 
